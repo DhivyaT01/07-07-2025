@@ -4,3 +4,4 @@ def is_palindrome(s):
 word = "madam"
 print(is_palindrome(word))
 #
+# This is a palindrome program
