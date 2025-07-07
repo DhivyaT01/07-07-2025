@@ -3,3 +3,4 @@ def is_palindrome(s):
 
 word = "madam"
 print(is_palindrome(word))
+#
